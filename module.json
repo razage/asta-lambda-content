@@ -29,6 +29,6 @@
         }
     ],
     "url": "https://github.com/razage/asta-lambda-content",
-    "manifest": "https://raw.githubusercontent.com/razage/asta-lambda-content/refs/heads/main/module.json",
-    "download": "https://github.com/razage/asta-lambda-content/archive/refs/heads/main.zip"
+    "manifest": "http://raw.githubusercontent.com/razage/asta-lambda-content/refs/heads/master/module.json",
+    "download": "https://github.com/razage/asta-lambda-content/archive/refs/heads/master.zip"
 }
