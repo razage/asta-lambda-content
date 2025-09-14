@@ -2,7 +2,7 @@ Fellatio's Scrumptious Yeets Public License
 
 Version 1.0
 
-Copyright (c) 2023 Scrumptious Yeets
+Copyright (c) 2025 Scrumptious Yeets
 
 Permission is hereby granted, free of charge, to any active and receiving member of the Fellatio's Scrumptious Yeets community (FSY Member), to use, copy, modify, and distribute this software and its documentation for any purpose, including commercial applications, without limitation, provided the FSY Member does not alter or remove any copyright or other notices included in the original source code.
 
