@@ -3,7 +3,7 @@
     "title": "Asta Lambda Content",
     "description": "Content for running the Asta Lambda sector in SWN.",
     "authors": [{ "name": "razage" }],
-    "version": "0.0.4",
+    "version": "0.0.5",
     "compatibility": {
         "minimum": "12",
         "verified": "12.343"
@@ -24,6 +24,14 @@
             "label": "Foci",
             "path": "packs/foci",
             "type": "Item",
+            "system": "swnr",
+            "flags": {}
+        },
+        {
+            "name": "ship-models",
+            "label": "Ship Models",
+            "path": "packs/ship-models",
+            "type": "Actor",
             "system": "swnr",
             "flags": {}
         }
