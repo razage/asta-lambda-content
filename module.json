@@ -34,7 +34,7 @@
 			"type": "Item",
 			"system": "swnr",
 			"flags": {}
-		}
+		},
         {
             "name": "ship-models",
             "label": "Ship Models",
