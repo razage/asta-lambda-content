@@ -3,7 +3,7 @@
     "title": "Asta Lambda Content",
     "description": "Content for running the Asta Lambda sector in SWN.",
     "authors": [{ "name": "razage" }],
-    "version": "0.0.8",
+    "version": "0.0.9",
     "compatibility": {
         "minimum": "12",
         "verified": "12.343"
