@@ -3,7 +3,7 @@
     "title": "Asta Lambda Content",
     "description": "Content for running the Asta Lambda sector in SWN.",
     "authors": [{ "name": "razage" }],
-    "version": "0.0.12",
+    "version": "0.0.13",
     "compatibility": {
         "minimum": "12",
         "verified": "12.343"
@@ -40,6 +40,14 @@
             "label": "Gear",
             "path": "packs/gear",
             "type": "Item",
+            "system": "swnr",
+            "flags": {}
+        },
+        {
+            "name": "npcs",
+            "label": "NPCs",
+            "path": "packs/npcs",
+            "type": "Actor",
             "system": "swnr",
             "flags": {}
         },
