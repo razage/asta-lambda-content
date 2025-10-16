@@ -3,7 +3,7 @@
     "title": "Asta Lambda Content",
     "description": "Content for running the Asta Lambda sector in SWN.",
     "authors": [{ "name": "razage" }],
-    "version": "0.0.14",
+    "version": "0.0.15",
     "compatibility": {
         "minimum": "12",
         "verified": "12.343"
@@ -36,6 +36,30 @@
             "flags": {}
         },
         {
+            "name": "mech-defenses",
+            "label": "Mech Defenses",
+            "path": "packs/mech-defenses",
+            "type": "Item",
+            "system": "swnr",
+            "flags": {}
+        },
+        {
+            "name": "mech-fittings",
+            "label": "Mech Fittings",
+            "path": "packs/mech-fittings",
+            "type": "Item",
+            "system": "swnr",
+            "flags": {}
+        },
+        {
+            "name": "mech-weapons",
+            "label": "Mech Weapons",
+            "path": "packs/mech-weapons",
+            "type": "Item",
+            "system": "swnr",
+            "flags": {}
+        },
+        {
             "name": "npcs",
             "label": "NPCs",
             "path": "packs/npcs",
@@ -53,6 +77,12 @@
         }
     ],
     "packFolders": [
+        {
+            "name": "Mech Parts",
+            "sorting": "a",
+            "color": "#666666",
+            "packs": ["mech-defenses", "mech-fittings", "mech-weapons"]
+        },
         {
             "name": "Asta Lambda Content",
             "sorting": "a",
